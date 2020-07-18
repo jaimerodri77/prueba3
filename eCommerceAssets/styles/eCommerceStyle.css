@@ -71,6 +71,18 @@ header {
 	background-color: rgba(190,190,190,1.00);
 	background: url( ../../images/img8.jpg) no-repeat left top;
 }
+
+#logo5 {
+	float: left;
+	padding-top: 40px;
+	padding-bottom: 10px;
+	width: 100px;
+	text-align: center;
+	font-size: 15px;
+	color: black;
+	background-color: rgba(190,190,190,1.00);
+	background: url( ../../images/img9.jpg) no-repeat left top;
+}
 /* div for Links in header */
 #headerLinks {
 	float: left;
