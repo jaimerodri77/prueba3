@@ -10,6 +10,9 @@ body
 #page, #page2, #pag3
 {
 	background: url(images/img6.jpg) repeat;
+	text-align: left;
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+	line-height: 100%;
 }
 .heading
 {
@@ -27,7 +30,7 @@ display: none;
 {
 	width: 100%;
 	height: 18px;
-	background: #1331BC;
+	background: #0381FC;
 	margin: 0;
 	padding: 0;
 }
@@ -35,7 +38,7 @@ display: none;
 {
 	width: 100%;
 	height: 234px;
-	background: #4BC11B;
+	background: #F1EEEE;
 	margin: 0;
 	padding: 0;
 }
