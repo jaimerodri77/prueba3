@@ -59,14 +59,14 @@ display: none;
 {
     display: flex;
 	padding: 0;
-	width: 200%;
+	width: 100%;
 	animation: cambio 10s infinite alternate;
 
 }
 .slider li
 {
 	list-style: none;
-	width: 50%;
+	width: 100%;
 }
 .slider img
 {
