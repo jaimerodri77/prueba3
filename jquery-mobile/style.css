@@ -66,12 +66,12 @@ display: none;
 .slider li
 {
 	list-style: none;
-	width: 100%;
+	width: 50%;
 }
 .slider img
 {
 	
- 
+ height: auto;
 	width: auto;
 }
 @keyframes cambio
