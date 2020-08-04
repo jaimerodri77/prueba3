@@ -72,7 +72,7 @@ display: none;
 .slider img
 {
 	
-width: auto
+width: 100%;
 	
 }
 @keyframes cambio
