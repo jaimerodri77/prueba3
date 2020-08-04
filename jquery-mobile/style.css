@@ -60,7 +60,7 @@ display: none;
     display: flex;
 	padding: 0;
 	width: 100%;
-	animation: cambio 10s infinite alternate;
+	animation: cambio 6s infinite alternate;
 
 }
 .slider li
