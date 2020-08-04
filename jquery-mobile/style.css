@@ -53,13 +53,14 @@ display: none;
 	width: 100%;
 	margin: auto;
 	overflow: hidden;
+	
 }
 .slider ul
 {
     display: flex;
 	padding: 0;
 	width: 200%;
-	animation: cambio 5s infinite alternate;
+	animation: cambio 8s infinite alternate;
 	animation-timing-function: linear;
 	animation-direction: alternate;
 }
@@ -77,9 +78,9 @@ display: none;
 @keyframes cambio
 {
 	0%{margin-left: 0%;}
-	30%{margin-left: 0%;}
+	27%{margin-left: 0%;}
 	33%{margin-left: -100%;}
-	66%{margin-left: -100%;}
-	69%{margin-left: -200%;}
+	69%{margin-left: -100%;}
+	75%{margin-left: -200%;}
 	100%{margin-left: -200%;}
 }
