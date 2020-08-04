@@ -60,9 +60,8 @@ display: none;
     display: flex;
 	padding: 0;
 	width: 200%;
-	animation: cambio 8s infinite alternate;
-	animation-timing-function: linear;
-	animation-direction: alternate;
+	animation: cambio 20s infinite alternate;
+
 }
 .slider li
 {
@@ -72,7 +71,7 @@ display: none;
 .slider img
 {
 	
-width: 100%;
+
 	
 }
 @keyframes cambio
