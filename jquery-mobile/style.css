@@ -72,15 +72,15 @@ display: none;
 .slider img
 {
 	
-	
+
 	
 }
 @keyframes cambio
 {
 	0%{margin-left: 0%;}
-	27%{margin-left: 0%;}
-	33%{margin-left: -100%;}
-	69%{margin-left: -100%;}
-	75%{margin-left: -200%;}
+	20%{margin-left: 0%;}
+	30%{margin-left: -100%;}
+	50%{margin-left: -100%;}
+	60%{margin-left: -200%;}
 	100%{margin-left: -200%;}
 }
