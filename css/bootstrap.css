@@ -6391,7 +6391,7 @@ button.close {
 .carousel-indicators {
 	position: absolute;
 	bottom: 99px;
-	left: 232px;
+	left: 70%;
 	z-index: 15;
 	width: 30%;
 	padding-left: 0;
