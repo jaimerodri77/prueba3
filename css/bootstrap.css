@@ -6390,10 +6390,10 @@ button.close {
 }
 .carousel-indicators {
 	position: absolute;
-	bottom: 20px;
-	left: 201px;
+	bottom: 99px;
+	left: 232px;
 	z-index: 15;
-	width: 60%;
+	width: 30%;
 	padding-left: 0;
 	margin-left: -30%;
 	text-align: center;
@@ -6421,15 +6421,15 @@ button.close {
 .carousel-caption {
 	position: absolute;
 	right: 15%;
-	bottom: 45px;
-	left: 15%;
+	bottom: 94px;
+	left: 99px;
 	z-index: 10;
 	padding-top: 20px;
 	padding-bottom: 20px;
-	color: #fff;
+	color: white;
 	text-align: center;
 	text-shadow: 0 1px 2px rgba(0, 0, 0, .6);
-	height: 72px;
+	height: 15px;
 }
 .carousel-caption .btn {
   text-shadow: none;
